@@ -191,8 +191,8 @@ ms-dns $DNS_SRV1
 ms-dns $DNS_SRV2
 noccp
 auth
-mtu 1400
-mru 1400
+mtu 1280
+mru 1280
 proxyarp
 lcp-echo-failure 4
 lcp-echo-interval 30
